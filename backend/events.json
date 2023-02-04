@@ -1,0 +1,46 @@
+{
+    "events": [
+        {
+            "title": "01",
+            "image": "https://cdn.muenchen-p.de/fl_progressive,q_65/.imaging/stk/responsive/teaser300/dms/va-2016/muenchner-christkindlmarkt/christkindlmarkt-marienplat-logo-hp/document/christkindlmarkt-marienplat-logo-hp.jpg",
+            "date": "2022-10-01",
+            "description": "Some awesome event!",
+            "id": "2a42fcc4-ea21-4bdd-abf6-c40006dc66a4"
+        },
+          {
+            "title": "02",
+            "image": "https://cdn.muenchen-p.de/fl_progressive,q_65/.imaging/stk/responsive/teaser300/dms/va-2016/muenchner-christkindlmarkt/christkindlmarkt-marienplat-logo-hp/document/christkindlmarkt-marienplat-logo-hp.jpg",
+            "date": "2022-10-01",
+            "description": "Some awesome event!",
+            "id": "2a42fcc4-ea21-4bdd-abf6-c40006dc66a5"
+        },
+          {
+            "title": "03",
+            "image": "https://cdn.muenchen-p.de/fl_progressive,q_65/.imaging/stk/responsive/teaser300/dms/va-2016/muenchner-christkindlmarkt/christkindlmarkt-marienplat-logo-hp/document/christkindlmarkt-marienplat-logo-hp.jpg",
+            "date": "2022-10-01",
+            "description": "Some awesome event!",
+            "id": "2a42fcc4-ea21-4bdd-abf6-c40006dc66a6"
+        },
+          {
+            "title": "04",
+            "image": "https://cdn.muenchen-p.de/fl_progressive,q_65/.imaging/stk/responsive/teaser300/dms/va-2016/muenchner-christkindlmarkt/christkindlmarkt-marienplat-logo-hp/document/christkindlmarkt-marienplat-logo-hp.jpg",
+            "date": "2022-10-01",
+            "description": "Some awesome event!",
+            "id": "2a42fcc4-ea21-4bdd-abf6-c40006dc66a7"
+        },
+          {
+            "title": "05",
+            "image": "https://cdn.muenchen-p.de/fl_progressive,q_65/.imaging/stk/responsive/teaser300/dms/va-2016/muenchner-christkindlmarkt/christkindlmarkt-marienplat-logo-hp/document/christkindlmarkt-marienplat-logo-hp.jpg",
+            "date": "2022-10-01",
+            "description": "Some awesome event!",
+            "id": "2a42fcc4-ea21-4bdd-abf6-c40006dc66a8"
+        }
+    ],
+    "users": [
+        {
+            "email": "admin@primeit.pt",
+            "password": "$2a$12$HgcGvqVpK0Ip0BbWSvymH.oiaOl5FT5mStL0ezaezLxHzQnfgcYOO",
+            "id": "6611ab55-8096-4234-aedf-4d8f2e6954fc"
+        }
+    ]
+}
